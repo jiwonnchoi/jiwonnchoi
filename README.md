@@ -1,5 +1,7 @@
 ## JiwonChoi0805
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=JiwonChoi0805&desc=Computer%20Science%20Engineering&fontColor=fdfbfb&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=200&section=header&text=JiwonChoi0805&desc=Computer%20Science%20Engineering&fontColor=fdfbfb&fontSize=40&fontAlignY=40)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiwonChoi0805&count_bg=%236699E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🛠️ Tech Stacks 🛠️
 
