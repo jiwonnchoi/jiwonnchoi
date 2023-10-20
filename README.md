@@ -1,5 +1,5 @@
 ## JiwonChoi0805
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&height=300&section=header&text=JiwonChoi0805%20render&desc=Computer%20Science%20Engineering&animation=blinking&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&height=300&section=header&text=JiwonChoi0805&desc=Computer%20Science%20Engineering&animation=blinking&fontSize=50)
 
 ### 🛠️ Tech Stacks 🛠️
 
