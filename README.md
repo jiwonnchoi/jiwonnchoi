@@ -1,5 +1,5 @@
 ## JiwonChoi0805
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=200&section=header&text=👩‍💻Jiwon%20Choi👩‍💻%20%20@JiwonChoi0805&desc=Computer%20Science%20Engineering&fontColor=fdfbfb&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=200&section=header&text=👩‍💻@JiwonChoi0805👩‍💻&desc=Computer%20Science%20Engineering%20Student&fontColor=fdfbfb&fontSize=40&fontAlignY=40)
 
 <div align="center">
 
