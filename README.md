@@ -1,5 +1,5 @@
 ## JiwonChoi0805
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=JiwonChoi0805&desc=Computer%20Science%20Engineering&fontColor=e6dee9&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=JiwonChoi0805&desc=Computer%20Science%20Engineering&fontColor=fdfbfb&fontSize=40&fontAlignY=40)
 
 ### 🛠️ Tech Stacks 🛠️
 
