@@ -1,4 +1,3 @@
-### jiwonnchoi
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=200&section=header&text=👩‍💻@jiwonnchoi👩‍💻&desc=Computer%20Science%20Engineering%20Student&fontColor=fdfbfb&fontSize=30&fontAlignY=40)
 
 <div align="center">
@@ -11,6 +10,10 @@
   <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+</br>
+   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
+ <a><img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"> </a>
 </div>
 
 ### 🙋‍♀️ About Me 🙋‍♀️
