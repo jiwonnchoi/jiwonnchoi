@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=200&section=header&text=👩‍💻@jiwonnchoi👩‍💻&desc=Computer%20Science%20Engineering%20Student&fontColor=fdfbfb&fontSize=30&fontAlignY=40)
 
+<div align="center">
+<h2>@jiwonnchoi</h2>
+  
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiwonChoi0805&count_bg=%23FFE4FE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -11,9 +13,9 @@
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 </br>
-   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
- <a><img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"> </a>
+   <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+ <a><img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"> </a>
 </div>
 
 ### 🙋‍♀️ About Me 🙋‍♀️
