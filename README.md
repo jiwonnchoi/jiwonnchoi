@@ -71,7 +71,7 @@ Eager to learn and dedicated to building impactful, responsive interfaces. <br>
 |활동 기간|활동명|기술스택|프로젝트|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |2024.03~|[멋쟁이사자처럼](http://sopt.org/wp/) 12기|React, js|[2024 이화여대 대동제 축제웹사이트: Liber-Ewha](https://github.com/EWHA-LIKELION/12th-Ewha-Festival-Front)|Web Frontend|
-|2024.03~|University MakeUs Challenge(UMC) 6기|Springboot|[시제품 체험 서비스: Prototyne](https://github.com/PROTOTYNE)|Backend|
+|2024.02~ 2024.08|University MakeUs Challenge(UMC) 6기|Springboot|[시제품 체험 서비스: Prototyne](https://github.com/PROTOTYNE)|Backend|
 |2023.03~ 2024.02|[멋쟁이사자처럼](http://sopt.org/wp/) 11기|React, js|[NFT 기반 의료지갑 서비스: Wallethy](https://github.com/jiwonnchoi/Wallethy-team2-FE/tree/main/ftest)|Web Frontend|
 |||React, js|[가사탐색 서비스: 왓두유씽?](https://github.com/WhatDoYouSing)|Web Frontend|
 
