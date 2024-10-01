@@ -49,7 +49,7 @@ Eager to learn and dedicated to building impactful, responsive interfaces. <br>
 
 - 2024.07 ~ : [CEOS](https://ceos-sinchon.com/) 20th
   - Frontend Developer
-- 2024.02 ~ : [Likelion](https://likelion.net/) 12th
+- 2024.02 ~ : [LIKELION](https://likelion.net/) 12th
   - Frontend Manager
 - 2024.02 ~ 2024.06 : [UMC](https://www.instagram.com/uni_makeus_challenge/) 6th
   - Backend Lead Developer
@@ -58,7 +58,7 @@ Eager to learn and dedicated to building impactful, responsive interfaces. <br>
 
 ### 2023 
 
-- 2023.03 ~ 2024.02 : [Likelion](https://likelion.net/) 11th
+- 2023.03 ~ 2024.02 : [LIKELION](https://likelion.net/) 11th
   - Frontend Developer
 
 ### 2022
